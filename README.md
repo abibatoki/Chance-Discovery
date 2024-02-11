@@ -1,2 +1,2 @@
 # ChanceDiscovery
-To help businesses discover latent demand of customers
+To help businesses discover the latent demand of customers
