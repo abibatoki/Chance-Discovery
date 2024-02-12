@@ -1,5 +1,7 @@
-# ChanceDiscovery
 Chance discovery is all about discovering something new. Its objective is to find chances or breaking events from documents. It produces ideas and input into the creative process of identifying business opportunities.
+
+In this project, I used a dataset of AI tool descriptions from Futurepedia (futurepedia.io). Futurepedia is organized 
+into categories. The tools in this dataset are all from the customer support category. The goal is to identify chances that discuss ideas for new AI tools.
 
 
 ![graph html1](https://github.com/abibatoki/ChanceDiscovery/assets/149620766/362ec3c3-4c10-4433-90dc-fe97c72087a7)
